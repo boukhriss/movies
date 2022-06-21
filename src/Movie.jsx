@@ -20,7 +20,7 @@ const Movie = ({ movie }) => {
       <div>
         <span> {movie.Type}</span>
         <h3>{movie.Title}</h3>
-        <h2>Test Brch</h2>
+        <h2>Test 2 Brch</h2>
       </div>
     </div>
   );
